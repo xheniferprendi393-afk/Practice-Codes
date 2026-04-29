@@ -1,0 +1,39 @@
+The user interface should be based on the tkinter package of components.
+ It should be a fully working system that allows for the 
+ storage, 
+ viewing and 
+ updating of information in the database system.
+
+The User Interface should include working examples of:
+
+1. Labels
+2. Text Entry Fields
+3. Drop down Menus
+5. Checkboxes
+Radio Buttons
+Sliders
+Other Tkinter Widgets
+At a minimum, Database aspects should:
+
+Take information from the screen and insert it into a DB using the “Insert Into” command
+Select Info from a DB and display it to the screen
+Other Functions might include
+
+Updating existing information
+Deleting existing information
+Browsing existing information
+Marks will be awarded for a rich user interface that uses a wide range of graphical user interface components.
+
+The project should be implemented using a the Git versioning system using the Github Classroom Assignment Invitation included in this content section. You will not be able to get acces to this assignment invitation util you have successfully completed the short quiz on this project spec.  Every small step forward representing a very minor enhancement to the project should be committed and pushed to the repo. A small step forward or minor enhancement will typically only be few lines of code. Students should move forward in baby steps. Students are only permitted to push code to the repo that is fully working. Students must add a proper message to each commit so it's clear to them what each minor enhancement does.
+
+When the time comes to submit the project, if the version currently being worked on is not working, you will be required to revert to the last working version of the project. In this way, students will not be allowed to submit a non-working project. Students submitting a non-working project will receive a fail grade.
+
+Marks will be awarded in the following areas
+
+Originality
+GUI
+Functionality
+Quality
+Database
+Project Submission and Demonstration
+Git Commits
